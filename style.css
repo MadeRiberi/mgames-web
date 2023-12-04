@@ -313,7 +313,7 @@ footer
 
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
 
     nav ul li a
     {
@@ -339,7 +339,7 @@ footer
 
     .link img
     {
-        width: 30%;
+        width: 70%;
     }
 
     .tentang
@@ -371,6 +371,7 @@ footer
     {
         display: grid;
         grid-template-columns: repeat(3,1fr);
+        
     }
 
     .gms
@@ -378,6 +379,5 @@ footer
         display: grid;
         grid-template-columns: repeat(3,1fr);
     }
-
 } 
 
