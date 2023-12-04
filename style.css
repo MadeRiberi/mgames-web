@@ -339,7 +339,7 @@ footer
 
     .link img
     {
-        width: 80%;
+        width: 30%;
     }
 
     .tentang
@@ -367,13 +367,13 @@ footer
     border-radius: 10px;
     }
 
-    .PULSA
+    .pulsa
     {
         display: grid;
         grid-template-columns: repeat(3,1fr);
     }
 
-    .GAMES
+    .gms
     {
         display: grid;
         grid-template-columns: repeat(3,1fr);
